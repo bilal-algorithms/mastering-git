@@ -4,4 +4,4 @@ console.log(`this is a ${something}`);
 console.log('hey all');
 let a = 1 + 2;
 console.log(a)
-console.error('this is an error')
+
